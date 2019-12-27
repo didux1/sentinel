@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "didux1/support": "dev-master",
+        "didux1/support": "*",
         "illuminate/support": "~5.0"
     },
     "require-dev": {
