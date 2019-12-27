@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d4840f-32cd-4d3d-96d5-af6944208e79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577435215116</updated>
       <workItem from="1577435216483" duration="362000" />
-      <workItem from="1577435684420" duration="585000" />
+      <workItem from="1577435684420" duration="2408000" />
     </task>
     <task id="LOCAL-00001" summary="sentinel">
       <created>1577435315552</created>
@@ -85,7 +84,28 @@
       <option name="project" value="LOCAL" />
       <updated>1577435700495</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sentinel">
+      <created>1577436481546</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577436481546</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sentinel">
+      <created>1577437871970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577437871970</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sentinel">
+      <created>1577438405138</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577438405138</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,13 +116,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="sentinel" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="296" y="53" key="CommitChangelistDialog2" timestamp="1577436459311">
+    <state x="296" y="53" key="CommitChangelistDialog2" timestamp="1577438404982">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="296" y="53" key="CommitChangelistDialog2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1577436459311" />
-    <state x="320" y="179" key="Vcs.Push.Dialog.v2" timestamp="1577435702437">
+    <state x="296" y="53" key="CommitChangelistDialog2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1577438404982" />
+    <state x="320" y="179" key="Vcs.Push.Dialog.v2" timestamp="1577438406412">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="179" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1577435702437" />
+    <state x="320" y="179" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1577438406412" />
   </component>
 </project>

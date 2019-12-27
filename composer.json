@@ -20,7 +20,6 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "didux1/support": "dev-master#27863c02cfd560849f274b887597b04e5fcf6b0f",
         "illuminate/support": "~5.0"
     },
     "require-dev": {
@@ -57,11 +56,5 @@
                 "Sentinel": "Cartalyst\\Sentinel\\Laravel\\Facades\\Sentinel"
             }
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/didux1/support.git"
-        }
-    ]
+    }
 }
