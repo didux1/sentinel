@@ -47,9 +47,6 @@
     },
     "extra": {
         "component": "package",
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        },
         "laravel": {
             "providers": [
                 "Cartalyst\\Sentinel\\Laravel\\SentinelServiceProvider"
@@ -61,7 +58,6 @@
             }
         }
     },
-    "minimum-stability": "stable",
     "repositories": [
         {
             "type": "vcs",
