@@ -61,5 +61,11 @@
             }
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/didux1/support.git"
+        }
+    ]
 }
